@@ -41,4 +41,4 @@ holbertonschool-france-certificates-ibm/
 
 Ces certifications font partie du programme IBM SkillsBuild, requis sur les trois trimestres du cursus Holberton School France.
 
-Étudiante : NDEYE FATOU SAMB ([@sam99-web](https://github.com/sam99-web))
+Étudiante : NDEYE FATOU SAMB
